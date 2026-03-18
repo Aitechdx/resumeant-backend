@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pdfminer.six
+python-docx
+requests
+itsdangerous
+markdown
